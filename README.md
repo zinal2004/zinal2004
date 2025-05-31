@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Tech Enthusiast and Web Developer<br>🧐 I’m currently in my Third Year of college and passionately exploring different domains such as web Development and Blockchain Technology.<br>🔭 I’m currently working on Full Stack Development and side-by-side Preparing DSA.<br>👯 I’m looking to collaborate on web development projects.
+A Tech Enthusiast and Web Developer<br>🧐 I’m currently in my Third Year of college and passionately exploring different domains such as Web Development and Blockchain Technology.<br>🔭 I’m currently working on Full Stack Development and side-by-side Preparing DSA.<br>👯 I’m looking to collaborate on web development projects.
 
 
 ## 🌐 Socials:
