@@ -1,14 +1,64 @@
-# 💫 About Me:
-A Tech Enthusiast and Web Developer<br>🧐 I’m currently in my Third Year of college and passionately exploring different domains such as Web Development and Blockchain Technology.<br>🔭 I’m currently working on Full Stack Development and side-by-side Preparing DSA.<br>👯 I’m looking to collaborate on web development projects.
+<h1 align="center">Hi 👋, I'm Zinal Shah</h1>
+<h3 align="center">Final Year CSE Student | Full Stack Developer | Tech Explorer</h3>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zinal_shah20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zinal-shah-185783253) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@zinal200420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zinalshah20@gmail.com) 
+### 🧠 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zinal2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zinal2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zinal2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Final year student exploring software development and real-world tech applications  
+- 💻 Focused on **MERN Stack** and sharpening skills in **DSA (Java)**  
+- 🛠️ Constantly building & learning through projects, open source, and new tools  
+- 🌐 Enjoy solving real-world problems through code and intuitive UI/UX  
+- 🤝 Open to collaborating on frontend/backend projects or team-based learning  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F9CF5&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code...;MERN+Stack+Developer+%7C+Java+DSA+Learner;Open+to+Internships+and+Collaborations!" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/zinal-shah-185783253" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/zinal_shah20" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:zinalshah20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@zinal200420" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,figma,python,java,vercel,netlify,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zinal2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinal2004&theme=tokyonight&hide_border=false" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinal2004&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+### ✨ A Few Things About Me
+
+- 📚 I enjoy working on meaningful and user-focused web projects  
+- 🧩 I love solving problems with clean logic and structured code  
+- 🌱 Learning every day, from frontend polish to backend logic and everything in between  
+- 🎯 Focused on consistency and clarity in both code and design  
+
+---
+
+### 🗓️ Currently Learning
+- Next.js  
+- Web Animations    
+- More in-depth DSA with Java  
+
+<!-- README created with ❤️ by Zinal -->
