@@ -34,19 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinal2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinal2004&theme=tokyonight&hide_border=false" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinal2004&layout=compact&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
 ### ✨ A Few Things About Me
 
 - 📚 I enjoy working on meaningful and user-focused web projects  
@@ -60,5 +47,20 @@
 - Next.js  
 - Web Animations    
 - More in-depth DSA with Java  
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zinal2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinal2004&theme=tokyonight&hide_border=false" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinal2004&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
 
 <!-- README created with ❤️ by Zinal -->
